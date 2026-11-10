@@ -96,7 +96,7 @@ export default function LoginPage() {
             WebkitMaskImage: "linear-gradient(to right, black 40%, transparent 100%)",
           }}>
             <Image
-              src="/images/3.jpg"
+              src="/images/login-and-register.jpg"
               alt="Laptops on a desk"
               fill
               priority
