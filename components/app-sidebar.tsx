@@ -31,27 +31,27 @@ import {
 const menuItems = [
   {
     title: "Dashboard",
-    url: "/dashboard",
+    url: "/",
     icon: LayoutDashboard,
   },
   {
     title: "Browse Laptops",
-    url: "/laptops",
+    url: "/",
     icon: Laptop,
   },
   {
     title: "My Cart",
-    url: "/cart",
+    url: "/",
     icon: ShoppingCart,
   },
   {
     title: "My Orders",
-    url: "/orders",
+    url: "/",
     icon: Package,
   },
   {
     title: "My Account",
-    url: "/profile",
+    url: "/",
     icon: UserRound,
   },
 ]
